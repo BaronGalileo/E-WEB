@@ -1,0 +1,120 @@
+aside {
+    float: left;
+    background: #181818;
+    width: 20%;
+    padding: 2.5%;
+    height: 100vh;
+    color: #fff;
+    border-right: 5px solid #4d4d4d;
+}
+
+aside .imgfotoa {
+    width: 265px;
+    height: 450px;
+    float: left;
+}
+
+
+aside .imgfoto {
+    width: 285px;
+    height: 245px;
+    float: left;
+}
+
+aside .logo {
+    font-size: 55px;
+    margin-left: 10px;
+    font-weight: bold;
+    color: red
+}
+
+aside h3 {
+    font-size: 35px;
+    color: #B9DDF3
+}
+
+aside ul {list-style: none}
+aside ul li {
+    color: #B9DDF3;
+    display: block;
+    margin-top: 25px;
+    transition: transform .6s ease;
+}
+
+aside ul li:hover, aside ul a:hover {
+    color: red;
+    text-decoration: none;
+    transform: scale(1.15);
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    background: #CDF9E2;
+    width: 95%;
+    padding: 2.5%;
+    height: 100vh;
+    color: #4949BC;
+    border-right: 5px solid #4d4d4d;
+}
+
+main h1 {
+
+    color: red;
+    font-size: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    }
+
+main .leftfoto {
+    float:left;
+    margin: 4px 10px 2px 0px;
+    width: 350px;
+    height: 280px;
+}
+
+main .leftfotoob {
+    float:left;
+    margin: 4px 10px 2px 0px;
+    width: 400px;
+    height: 281px;
+}
+
+main p {color: #000000; max-width: 1000px; font-size: 17px; margin: 20px auto;}
+main h2 { font-size: 28px; height: 100ph; margin: 20px auto; }
+
+main .rightfoto {
+    float:right;
+    margin: 4px 10px 2px 0px;
+    width: 350px;
+    height: 280px;
+}
+
+main .leftfotoobm {
+    float:left;
+    margin: 4px 10px 2px 0px;
+    width: 300px;
+    height: 300px;
+}
+
+main .leftfotoobmq {
+    float:left;
+    margin: 4px 10px 2px 0px;
+    width: 300px;
+    height: 280px;
+}
+
+main nav {
+    font-size: 50px;
+    list-style-position:inside;
+
+}
+
+main .leftfotcont {
+    float:left;
+    margin: 4px 10px 2px 0px;
+    width: 320px;
+    height: 320px;
+}
+
